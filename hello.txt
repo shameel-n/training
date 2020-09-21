@@ -3,3 +3,5 @@ hello world2
 changed
 
 Lets start working on new branch
+
+Hello from new branch
